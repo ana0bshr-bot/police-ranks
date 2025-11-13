@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>Ranks Table</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #1c1c1c;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  .header img {
+    height: 80px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #555;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+    background-color: #333;
+  }
+  .rank-header {
+    background-color: #0055a5;
+    font-weight: bold;
+    font-size: 18px;
+  }  
+ 
+</style>
+</head>
+<body>
+
+<!-- Header with images -->
+<div class="header">
+  <img src="fc4f573e-fb9b-46ce-85ad-57d810fc48c5.png" alt="Left Image">
+  <img src="fc4f573e-fb9b-46ce-85ad-57d810fc48c5.png" alt="Right Image">
+</div>
+
+<!-- Police Commissioner -->
+<table>
+<tr class="rank-header"><td colspan="7">Police Commissioner</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>A-1</td><td>arthur aldosari</td><td>2000</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>A-2</td><td>eskar hajos</td><td>2000</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>A-3</td><td></td><td>2000</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- High Commander -->
+<table>
+<tr class="rank-header"><td colspan="7">High Commander</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>P-0</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>P-1</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>P-2</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>P-3</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>P-4</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>P-5</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+
+<!-- Chief Office -->
+<table>
+<tr class="rank-header"><td colspan="7">Chief Office</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>G-0</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>G-1</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>G-2</td><td></td><td>(اثبات جداره)</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Colonel -->
+<table>
+<tr class="rank-header"><td colspan="7">Colonel</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th> 
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>F-1</td><td></td><td>2000</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>F-2</td><td></td><td>2000</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+
+<!-- Major -->
+<table>
+<tr class="rank-header"><td colspan="7">Major</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>F-3</td><td></td><td>1600</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>F-4</td><td></td><td>1600</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>F-5</td><td></td><td>1600</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+
+<!-- Captain -->
+<table>
+<tr class="rank-header"><td colspan="7">Captain</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>C-0</td><td></td><td>1300</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-1</td><td></td><td>1300</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-2</td><td></td><td>1300</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-3</td><td></td><td>1300</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- First Lieutenant -->
+<table>
+<tr class="rank-header"><td colspan="7">First Lieutenant</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>C-4</td><td></td><td>1050</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-5</td><td></td><td>1050</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-6</td><td></td><td>1050</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-7</td><td></td><td>1050</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-8</td><td></td><td>1050</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+
+<!-- Lieutenant -->
+<table>
+<tr class="rank-header"><td colspan="7">Lieutenant</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>C-9</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-10</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-11</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-12</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-13</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-14</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-15</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-16</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-17</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-18</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-19</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-20</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+<tr><td>C-21</td><td></td><td>950</td><td>Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Staff Sergeant -->
+<table>
+<tr class="rank-header"><td colspan="7">Staff Sergeant</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-1</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-2</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-3</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-4</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-5</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-6</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-7</td><td></td><td>750</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- First Sergeant -->
+<table>
+<tr class="rank-header"><td colspan="7">First Sergeant</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-8</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-9</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-10</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-11</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-12</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-13</td><td></td><td>600</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Sergeant -->
+<table>
+<tr class="rank-header"><td colspan="7">Sergeant</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-14</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-15</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-16</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-17</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-18</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-19</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-20</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-21</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-22</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-23</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-24</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-25</td><td></td><td>450</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Senior Officer -->
+<table>
+<tr class="rank-header"><td colspan="7">Senior Officer</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-26</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-27</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-28</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-29</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-30</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-31</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-32</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-33</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-34</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-35</td><td></td><td>375</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- ||| Officer -->
+<table>
+<tr class="rank-header"><td colspan="7">||| Officer</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-70</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-71</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-72</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-73</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-74</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-75</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-76</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-77</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-78</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-79</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-80</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-81</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-82</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-83</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-84</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-85</td><td></td><td>300</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- || Officer -->
+<table>
+<tr class="rank-header"><td colspan="7">|| Officer</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-81</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-82</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-83</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-84</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-85</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-86</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-87</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-88</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-89</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-90</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-91</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-92</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-93</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-94</td><td></td><td>225</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- | Officer -->
+<table>
+<tr class="rank-header"><td colspan="7">| Officer</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-100</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-101</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-102</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-103</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-104</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-105</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-106</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-107</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-108</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-109</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-110</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-111</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-112</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-113</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-114</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-115</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-116</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-117</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-118</td><td></td><td>150</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Solo Cadet -->
+<table>
+<tr class="rank-header"><td colspan="7">Solo Cadet</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-200</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-201</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-202</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-203</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-204</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-205</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-206</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-207</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-208</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-209</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-210</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-211</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-212</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-213</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-214</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-215</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-216</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-217</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-218</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-219</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-220</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-221</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-222</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-223</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-224</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-225</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-226</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-227</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-228</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-229</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-230</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-231</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-232</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-233</td><td></td><td>75</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
+<!-- Cadet -->
+<table>
+<tr class="rank-header"><td colspan="7">Cadet</td></tr>
+<tr>
+<th>#Badge</th>
+<th>Name</th>
+<th>Required Points</th>
+<th>Status</th>
+<th>Last Promotion</th>
+<th>User</th>
+<th>Discord</th>
+</tr>
+<tr><td>U-229</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-230</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-231</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-232</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-233</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-234</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-235</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-236</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-237</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-238</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-239</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-240</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-241</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-242</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-243</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-244</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-245</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-246</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-247</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-248</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-249</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-250</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-251</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-252</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-253</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-254</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-255</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-256</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-257</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-258</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-259</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-260</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-261</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-262</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-263</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-264</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-265</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-266</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+<tr><td>U-267</td><td></td><td>اجتياز الدورة</td><td>🔹 Active</td><td></td><td></td><td></td></tr>
+</table>
